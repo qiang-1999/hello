@@ -5,5 +5,7 @@ public class aa {
 		System.out.println("aaaa");
 		
 		System.out.println("1111");
+		
+		System.out.println("shaoma");
 	}
 }
